@@ -1849,10 +1849,10 @@ jsonc-parser@^1.0.0:
   resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-1.0.3.tgz#1d53d7160e401a783dbceabaad82473f80e6ad7e"
   integrity sha512-hk/69oAeaIzchq/v3lS50PXuzn5O2ynldopMC+SWBql7J2WtdptfB9dy8Y7+Og5rPkTCpn83zTiO8FMcqlXJ/g==
 
-jsrsasign@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/jsrsasign/-/jsrsasign-10.0.0.tgz#a544b4e63124c4da56a6e7a8007e0ee8a616a81e"
-  integrity sha512-U1lSbeqaRN8aUOvbsfX7xzFXcjtV1g5zaWI+TrjBwZ46kSH0gZscEquyO9cmaTPTv1U1KAJxoSLUx79dM03Exw==
+jsrsasign@^10.2.0:
+  version "10.2.0"
+  resolved "https://registry.yarnpkg.com/jsrsasign/-/jsrsasign-10.2.0.tgz#960ab8046d19d3fcbb584368a57d1977cb0b7ffd"
+  integrity sha512-khMrV/10U02DRzmXhjuLQjddUF39GHndaJZ/3YiiKkbyEl1T5M6EQF9nQUq0DFVCHusmd/jl8TWl4mWt+1L5hg==
 
 kind-of@^3.0.2, kind-of@^3.0.3, kind-of@^3.2.0:
   version "3.2.2"
